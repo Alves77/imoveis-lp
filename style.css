@@ -3,6 +3,16 @@ body {
 }
 
 
+h2 span, h2.text-center, h2.fs-1, h2.fs-2, h2.fs-4, h2.fs-5, h2.fw-bolder, h2.text-center, h2.text-light-brown {
+    text-transform: uppercase;
+}
+
+
+footer {
+    text-align: center;
+}
+
+
 .bg-blue, .btn-blue {
     background-color: #124072;
 }
