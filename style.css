@@ -85,6 +85,10 @@ body {
     transform: translateY(-50%);
 }
 
+nav .container .navbar-toggler {
+    color: white;
+}
+
 .card-img-small-top {
     width: 180px;
     height: 10px;
