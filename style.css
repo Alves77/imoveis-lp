@@ -8,8 +8,8 @@ h2 span, h2.text-center, h2.fs-1, h2.fs-2, h2.fs-4, h2.fs-5, h2.fw-bolder, h2.te
 }
 
 
-footer {
-    text-align: center;
+footer p {
+    font-size: 12px; /* Ajuste o tamanho conforme necessário */
 }
 
 
